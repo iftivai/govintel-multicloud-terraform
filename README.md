@@ -30,6 +30,3 @@ This infrastructure supports AI-powered document processing, secure storage, and
 - Remote state with Azure Blob Storage
 
 ---
-
-## Project Structure
-
